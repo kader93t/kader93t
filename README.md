@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelkader BENANANE</h1>
 <h3 align="center">Full stack developer</h3>
 
-- 💬 Ask me about **flutter, dart, bloc, MERN, NEXTJS, TYPESCRIPT**
+- 💬 Ask me about **Flutter, Dart, Bloc, MERN, NEXTJS, TYPESCRIPT**
 
 - 📫 How to reach me **abaek93@gmail.com**
 
