@@ -8,7 +8,7 @@ Software Engineer passionate about building modern, scalable web applications an
 - 🇩🇿 Based in Algeria  
 - 🎓 Master’s Degree in Computer Science  
 - 👨‍💻 5+ years of experience in the JavaScript ecosystem  
-- 🔍 Interested in remote opportunities (Europe & Canada especially)  
+- 🔍 Interested in remote opportunities
 - 🌍 Working on multi-tenant SaaS platforms and investment systems  
 - 🧱 Big fan of clean architecture and strong domain modeling  
 
@@ -19,7 +19,7 @@ Software Engineer passionate about building modern, scalable web applications an
 ### Backend
 - **Node.js**, **NestJS**, **Express**
 - **TypeORM**, **PostgreSQL**, **MongoDB**
-- **Microservices**, **BullMQ**, **Kafka**
+- **Microservices**, **BullMQ**
 - **Hexagonal / DDD / Modular Monolith Architecture**
 - **tRPC**, **WebSocket APIs**
 
